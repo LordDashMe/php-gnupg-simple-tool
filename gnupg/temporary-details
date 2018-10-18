@@ -1,0 +1,13 @@
+%echo Generating a basic OpenPGP key
+Key-Type: RSA
+Key-Length: 2048
+Subkey-Type: RSA
+Subkey-Length: 2048
+Name-Real: Bslucas
+Name-Comment: Bounty Fresh Agent Key
+Name-Email: bslucas@bountyfresh.com.ph
+Expire-Date: 1y
+Passphrase: 7Bhf3Yv5HjwA9ce
+# Do a commit here, so that we can later print "done" :-)
+%commit
+%echo done
