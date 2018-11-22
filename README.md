@@ -2,24 +2,26 @@
 
 A simple PHP tool to manage GnuPG commands.
 
-## Disclaimer
-
-- This is a prototype project.
-
 ## Requirement(s)
 
 - GnuPG v2. <https://www.gnupg.org/download/index.html>
 
 - PHP version from 5.6.* up to latest.
 
+## Install
+
+- Recommended to install the project via Composer. Use the command below to install the package:
+
+```text
+composer create-project lorddashme/php-gnupg-simple-tool <your-project-name>
+```
+
 ## Usage
 
-- To clone or download the project.
-
-- After that just simply run using the standalone server of PHP, see the command below.
+- Run the source code using the stand-alone server of PHP, see the command below:
 
 ```bash
-cd php-gnupg-simple-tool/
+cd <your-project-name>/
 php -S localhost:8000
 ```
 
@@ -27,7 +29,7 @@ php -S localhost:8000
 
 ## Contribute
 
-- Really appreciate any suggestion or comments for this prototype project. Feel free to create an issue or pull request ticket.
+- I Really appreciate any suggestion or comments for this project. Feel free to create an issue or pull request. Thanks!
 
 ## License
 

@@ -1,0 +1,18 @@
+{
+    "name": "lorddashme/php-gnupg-simple-tool",
+    "description": "A simple PHP tool to manage GnuPG commands.",
+    "keywords": ["gnupg", "encryption", "cryptography"],
+    "type": "project",
+    "homepage": "https://github.com/lorddashme/php-gnupg-simple-tool",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joshua Clifford Reyes",
+            "email": "reyesjoshuaclifford@gmail.com",
+            "homepage": "https://lorddashme.github.io/"
+        }
+    ],
+    "require": {
+        "php": ">=5.6 || >=7.0 || >=7.1 || >=7.2"
+    }
+}
