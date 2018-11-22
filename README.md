@@ -1,5 +1,7 @@
 # PHP GnuPG Simple Tool
 
+[![Latest Stable Version](https://img.shields.io/packagist/v/LordDashMe/php-gnupg-simple-tool.svg?style=flat-square)](https://packagist.org/packages/LordDashMe/php-gnupg-simple-tool) [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg?style=flat-square)](https://php.net/)
+
 A simple PHP tool to manage GnuPG commands.
 
 ## Requirement(s)
