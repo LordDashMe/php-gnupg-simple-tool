@@ -29,7 +29,7 @@ php -S localhost:8000
 
 ## Contribute
 
-- I Really appreciate any suggestion or comments for this project. Feel free to create an issue or pull request. Thanks!
+- Feel free to create an issue or pull request. Thanks!
 
 ## License
 
