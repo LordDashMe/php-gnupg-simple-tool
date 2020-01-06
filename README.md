@@ -31,7 +31,7 @@ php -S localhost:8000
 
 ## Contribute
 
-- Feel free to create an issue or pull request. Thanks!
+- Please feel free to send a pull request.
 
 ## License
 
